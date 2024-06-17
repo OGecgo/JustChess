@@ -1,0 +1,73 @@
+    /*public static int[] Start_Positions_takeSquare2(Bitmap bitmap, int x, int y, int width, int height)
+    {
+        int[] cursor = { x, y };
+        int[] positions = Click_Chess_Positions(cursor[0], cursor[1], width, height);
+        Color color = bitmap.GetPixel(positions[0], positions[1]);
+
+        //check all pixels then i search begin positions (check step to left and then to up)
+        while (Draw.Is_Pixel_Color(bitmap, positions[0], positions[1], color.R, color.G, color.B))
+        {
+            positions[0] -= 1;
+            //here i check next that if becaus it go out of bitmap if it in left box
+            if (!Test_Positions(positions[0] - 1, positions[1], 1080))
+            {
+                positions[0] -= 1;
+                break;
+            }
+        }
+
+        positions[0] += 1;
+        while (Draw.Is_Pixel_Color(bitmap, positions[0], positions[1], color.R, color.G, color.B))
+        {
+            positions[1] -= 1;
+            //here i check next that if becaus it go out of bitmap if it in top box
+            if (!Test_Positions(positions[0], positions[1] - 1, 1080))
+            {
+                positions[1] -= 1;
+                break;
+            }
+
+        }
+        positions[1] += 1;
+        // end i plas one because it take next and then stop
+        // it take pixel on other box or out the map
+        return positions;
+
+    }*/
+
+
+        /*int numberBoxes = sizeFoto / sizeBox;
+        numberBoxes *= numberBoxes;
+        for (int iBlock = 0; iBlock < numberBoxes; iBlock++)
+        {
+
+            if (searchX)
+            {
+                xBlock++;
+                for (int j = iBlock * 1; j < iBlock * sizeBox; j++)
+                {
+                    if (positions[0] == j)
+                    {
+                        searchX = false;
+                        break;
+                    }
+                }
+            }
+
+            if (searchY)
+            {
+                yBlock++;
+                for (int k = iBlock * 1; k < iBlock * sizeBox; k++)
+                {
+                    if (positions[1] == k)
+                    {
+                        searchY = false;
+                        break;
+                    }
+                }
+            }
+        }
+        xBlock -= 1;
+        yBlock -= 1;
+        positions[0] = xBlock * sizeBox;
+        positions[1] = yBlock * sizeBox;*/

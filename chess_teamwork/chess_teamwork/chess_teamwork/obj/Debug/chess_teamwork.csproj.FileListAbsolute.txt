@@ -1,0 +1,45 @@
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\chess_teamwork.exe.config
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\chess_teamwork.exe
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\chess_teamwork.pdb
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.Properties.Resources.resources
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.GenerateResource.cache
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.exe
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.pdb
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.CopyComplete
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.FormChess.resources
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.FormSetTimer.resources
+C:\Users\User\source\repos\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.FormInfoData.resources
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\chess_teamwork.exe.config
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\chess_teamwork.exe
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\chess_teamwork.pdb
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.dll
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.dll
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.xml
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\bin\Debug\System.Data.SQLite.xml
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.AssemblyReference.cache
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.FormChess.resources
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.FormSetTimer.resources
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.FormInfoData.resources
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.Properties.Resources.resources
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.GenerateResource.cache
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.CoreCompileInputs.cache
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.CopyComplete
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.exe
+D:\Desktop\Αντώνης\3ο εξάμηνο\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.pdb
+C:\Users\User\Desktop\teemwork\chess_teamwork\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\teemwork\chess_teamwork\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.exe
+C:\Users\User\Desktop\teemwork\chess_teamwork\chess_teamwork\chess_teamwork\obj\Debug\chess_teamwork.pdb
